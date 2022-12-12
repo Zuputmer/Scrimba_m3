@@ -7,3 +7,7 @@ function increment() {
     // set countEl's innerText to the count
     countEl.innerText=count
 }
+
+function save() {
+    console.log(count)
+}
